@@ -26,7 +26,7 @@ return Def.ActorFrame {
 	end,
 	
 	ComboCommand=function(self, param)
-		local iCombo = param.Misses or param.Combo
+		local iCombo = param.Combo
 		if not iCombo or iCombo < ShowComboAt then
 			c.Number:visible(false)
 			c.Label:visible(false)

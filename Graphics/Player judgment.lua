@@ -1,10 +1,12 @@
 local TNSFrames = {
+	TapNoteScore_CheckpointHit = 0,
 	TapNoteScore_W1 = 0,
 	TapNoteScore_W2 = 1,
 	TapNoteScore_W3 = 2,
 	TapNoteScore_W4 = 3,
 	TapNoteScore_W5 = 4,
-	TapNoteScore_Miss = 5
+	TapNoteScore_Miss = 5,
+	TapNoteScore_CheckpointMiss = 5,
 }
 
 local sPlayer = Var "Player"
