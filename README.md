@@ -5,7 +5,7 @@ An OutFox theme recreation for preservation and accessibility.
 
 ## Resources
 
-The theme targets [OutFox](https://projectoutfox.com/downloads) as its game engine and will not work on other platforms as is. The song pack required to run the theme and the additional noteskin are available over [at this repo](https://drive.google.com/drive/folders/1kms3nJsskNuR6nXjYt6pUT6eyCc4mwbv?usp=sharing).
+The theme targets [OutFox](https://projectoutfox.com/downloads) as its game engine and will not work on other platforms as is. The song pack required to run the theme and the additional Fusion noteskin are available over [at this repo](https://drive.google.com/drive/folders/1kms3nJsskNuR6nXjYt6pUT6eyCc4mwbv?usp=sharing).
 
 ## Credits
 
@@ -16,7 +16,7 @@ This theme has been made by SheepyChris, with lots of help from lots of people:
 - barru: Connecting dwangoAC to us and creating a channel to talk about the game at the SM64 Community Games Discord server
 - BedrockSolid: Organizing the MAGFest panel, making suggestions to the theme and testing
 - dj505: Recreating stepcharts, making suggestions to the theme and testing
-- Jose_Varela: Making suggestions, submitting fixes/PRs to the theme and creating the Fusion noteskin (available below)
+- Jose_Varela: Making suggestions, submitting fixes/PRs to the theme and creating the Fusion noteskin
 - Shoutouts to everyone else @ CIU!
 
 This would have also not been possible without the hard work from the OutFox development team, which are:
@@ -38,4 +38,4 @@ The OutFox team has allowed several parts of this theme to work and feel as accu
 - The Title screen has two options, Free will disable stage break and Arcade will enable it.
 - The Mode select screen chooses Easy, Medium and Hard chart difficulties to be loaded with the song afterwards. The down right option will change the player's scrolling speed (1x/1.5x/2x).
 - The Music select screen expects a song folder called `PIU Genesis` available from your game install or else it will not load. There is a secret mode that will load all songs that contains Edit difficulties, good luck finding it! If no songs are available with the selected difficulty, the theme will not progress further and stay at a black screen.
-- The additional `fusion` noteskin needs to set as your default noteskin in Options to be able to play with it. The game engine unfortunately does not scale it well at the original 320x240 resolution output, however it does scale and look pixel perfect at 640x480.
+- The additional Fusion noteskin needs to set as your default noteskin in Options to be able to play with it. The game engine unfortunately does not scale it well at the original 320x240 resolution output, however it does scale and look pixel perfect at 640x480.
