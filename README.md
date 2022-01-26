@@ -1,8 +1,7 @@
 # Pump It Up: The FUSION for the Sega Mega Drive/Genesis
 An OutFox theme recreation for preservation and accessibility.
 
-<img src="https://user-images.githubusercontent.com/12992355/151244887-6aee747b-68d8-47c7-b6ee-1a03d11d5edf.png" width="320" height="240"><img src="https://user-images.githubusercontent.com/12992355/151245750-09ba83a4-6dc6-46d3-85b4-dfa823997026.png" width="320" height="240"><img src="https://user-images.githubusercontent.com/12992355/151245249-9bba6c71-962b-48b1-a700-8fb98c2f199d.png" width="320" height="240">
-
+<img src="https://user-images.githubusercontent.com/12992355/151244887-6aee747b-68d8-47c7-b6ee-1a03d11d5edf.png" width="320" height="240"><img src="https://user-images.githubusercontent.com/12992355/151245750-09ba83a4-6dc6-46d3-85b4-dfa823997026.png" width="320" height="240"><img src="https://user-images.githubusercontent.com/12992355/151245249-9bba6c71-962b-48b1-a700-8fb98c2f199d.png" width="320" height="240"><img src="https://user-images.githubusercontent.com/12992355/151246355-0d232b6d-e15d-461b-b067-abb4c56b24d7.png" width="320" height="240">
 
 ## Resources
 
