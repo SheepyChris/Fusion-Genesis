@@ -42,13 +42,15 @@ local function InputHandler(event)
 			Select = 3
 		end
 	elseif event.button == "DownRight" then
-		SOUND:PlayOnce(THEME:GetPathS("", "Start"))
-		
-		Speed = Speed + 0.5
-		if Speed > 2 then Speed = 1 end
-		
-		GAMESTATE:ApplyGameCommand("mod," .. Speed .. "x", PLAYER_1)
-		Select = 4
+		if Select == 4 then
+			SOUND:PlayOnce(THEME:GetPathS("", "Start"))
+			Speed = Speed + 0.5
+			if Speed > 2 then Speed = 1 end
+			GAMESTATE:ApplyGameCommand("mod," .. Speed .. "x", PLAYER_1)
+		else
+			SOUND:PlayOnce(THEME:GetPathS("", "Start"))
+			Select = 4
+		end
 	elseif event.button == "Center" then -- Secret mode!
 		if Select == 5 then
 			SOUND:PlayOnce(THEME:GetPathS("", "Enter"))
